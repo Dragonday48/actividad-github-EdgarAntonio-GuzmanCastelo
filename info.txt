@@ -1,1 +1,4 @@
-
+Nombre del alumno
+Fecha
+Objetivo de la actividad
+Qué es un pull request
